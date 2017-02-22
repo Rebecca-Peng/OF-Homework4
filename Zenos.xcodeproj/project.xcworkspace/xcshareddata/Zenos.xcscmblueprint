@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A3C9CA329E6706A60F7A5B587BD384A5979069F6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A3C9CA329E6706A60F7A5B587BD384A5979069F6" : 9223372036854775807,
+    "A2E8041939417B920BCFAEBBEEFBD4937ED98565" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "29CE0BAB-13CF-4E79-8C96-644483F3B404",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A3C9CA329E6706A60F7A5B587BD384A5979069F6" : "Zenos\/",
+    "A2E8041939417B920BCFAEBBEEFBD4937ED98565" : "Homework-3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Zenos",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Zenos.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rebecca-Peng\/OF-HOMEwork3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A2E8041939417B920BCFAEBBEEFBD4937ED98565"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rebecca-Peng\/OF-Homework4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3C9CA329E6706A60F7A5B587BD384A5979069F6"
+    }
+  ]
+}
